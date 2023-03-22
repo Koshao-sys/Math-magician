@@ -1,0 +1,41 @@
+.Calculator {
+  width: 45%;
+  margin: auto;
+}
+
+.DisplayArea {
+  background-color: #858694;
+}
+
+.DisplayArea p {
+  margin: 0;
+  padding: 20px 5px 20px;
+  text-align: right;
+  color: #fff;
+}
+
+.key-area {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.key-btn {
+  box-sizing: border-box;
+  width: 100%;
+  height: 60px;
+  background-color: #e0e0e0;
+  border: 1px solid #858694;
+  font-weight: 500;
+}
+
+.key-area .key-btn:nth-child(4n) {
+  background-color: #f5913e;
+}
+
+.key-area .key-btn:nth-last-child(-n+1) {
+  background-color: #f5913e;
+}
+
+#btn-16 {
+  grid-column: span 2;
+}
