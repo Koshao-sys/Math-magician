@@ -30,7 +30,7 @@
 
 ## About the Project
 
-> This Application is a setup of the react app which is a preparation for the math magician application. 
+> This is a Calculator App showing an impressive design built with React.js. 
 
 ## Built With
 
