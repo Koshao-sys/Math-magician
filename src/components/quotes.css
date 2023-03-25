@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+
+.quotes-container {
+  flex-basis: 40%;
+  font-size: 20px;
+  border: 2px solid #f5913e;
+  background-color: #f5913e;
+  border-radius: 25% 25% 25% 25%;
+  padding: 20px;
+}
+
+.quotes-container p {
+  font-family: 'Delicious Handrawn', cursive;
+  margin: 0;
+  color: rgb(246, 251, 255);
+}
+
+@keyframes slideInLeft {
+  0% {
+    transform: translateX(-100%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.loader {
+  animation-duration: 2s;
+  animation-timing-function: ease-in-out;
+  animation-delay: 0s;
+  animation-iteration-count: infinite;
+  animation-name: slideInLeft;
+  background: #ecbbac;
+  padding: 20px;
+}

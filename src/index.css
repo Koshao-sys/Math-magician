@@ -1,0 +1,11 @@
+body {
+  background-color: #fef4f4;
+}
+
+.calc-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+  gap: 50px;
+}
