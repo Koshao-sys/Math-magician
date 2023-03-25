@@ -30,18 +30,16 @@
 
 ## About the Project
 
-> This is a Calculator App showing an impressive design built with React.js. 
+> This is a Calculator App showing an impressive design of a functional calculator and quotes from an external restful API built with React.js. 
 
 ## Built With
 
 - React
 
-<!--### Key Features
+### Key Features
 
-- Fetching Movies from the External API.
-- Adding Likes to movies.
-- Adding comments to movies.
-- Displaying likes and comments from the External API for each movie.-->
+- Fetching Quotes from the External API.
+- Making math operations.
 
 <!--## Live Demo
 
@@ -84,7 +82,7 @@ sh
 
 ## 🔭 Future Features
 
-- Functional calculator app.
+- Mulitple pages
 
 ## 🤝 Contributing <a name="contributing"></a>
 
