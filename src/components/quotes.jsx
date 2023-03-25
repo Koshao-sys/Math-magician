@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import './quotes.css';
 
 const Quotes = () => {
   const [quote, setQuote] = useState('');
@@ -31,26 +32,29 @@ const Quotes = () => {
   }, []);
 
   return (
-    <div>
+    <div className="quotes-container">
       {' '}
       {
-        loading || error ? `${error}`
-          : (
-            <p>
-              {quote}
-              {' '}
-              |
-              {' '}
-              (
-              {category}
-              )
-              {' '}
-              -
-              {' '}
-              {author}
-            </p>
-          )
-}
+        loading || error ? (
+          <div className={loading ? 'loading' : 'error'}>
+            { loading ? <div className="loader" /> : `Error: ${error}`}
+          </div>
+        ) : (
+          <p>
+            {quote}
+            {' '}
+            |
+            {' '}
+            (
+            {category}
+            )
+            {' '}
+            -
+            {' '}
+            {author}
+          </p>
+        )
+      }
     </div>
   );
 };
