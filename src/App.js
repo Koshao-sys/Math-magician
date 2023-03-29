@@ -25,11 +25,6 @@ function App() {
       </Routes>
     </>
   );
-  /* return (
-    <div className="Calc-App">
-      <Calculator />
-    </div>
-  ); */
 }
 
 export default App;
