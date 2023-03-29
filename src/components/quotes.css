@@ -2,11 +2,13 @@
 
 .quotes-container {
   flex-basis: 40%;
-  font-size: 20px;
+  font-size: 50px;
   border: 2px solid #f5913e;
   background-color: #f5913e;
   border-radius: 25% 25% 25% 25%;
-  padding: 20px;
+  padding: 40px;
+  width: 60%;
+  margin: auto;
 }
 
 .quotes-container p {
