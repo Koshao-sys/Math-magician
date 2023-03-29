@@ -30,7 +30,7 @@
 
 ## About the Project
 
-> This is a Calculator App showing an impressive design built with React.js. 
+> This is a Calculator App showing an impressive design of a functional calculator and quotes from an external restful API built with React.js. 
 
 ## Built With
 
@@ -39,7 +39,7 @@
 ### Key Features
 
 - Fetching Quotes from the External API.
-- Making Math computations
+- Making math operations.
 
 <!--## Live Demo
 
@@ -83,6 +83,7 @@ sh
 ## 🔭 Future Features
 
 - Impressive interface.
+- Mulitple pages
 
 ## 🤝 Contributing <a name="contributing"></a>
 
