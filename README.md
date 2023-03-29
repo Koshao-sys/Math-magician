@@ -160,7 +160,6 @@ Example:
 
 <!-- FUTURE FEATURES -->
 
-<<<<<<< HEAD
 <!--## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[new_feature_1]**
@@ -168,12 +167,6 @@ Example:
 - [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>-->
-
-<<<<<<<<< Temporary merge branch 1
-- Mulitple pages
-=========
-- Impressive interface.
->>>>>>>>> Temporary merge branch 2
 
 ## 🤝 Contributing <a name="contributing"></a>
 
