@@ -35,23 +35,26 @@ const Quotes = () => {
     <div className="quotes-container">
       {' '}
       {
-        loading || error ? `${error}`
-          : (
-            <p>
-              {quote}
-              {' '}
-              |
-              {' '}
-              (
-              {category}
-              )
-              {' '}
-              -
-              {' '}
-              {author}
-            </p>
-          )
-}
+        loading || error ? (
+          <div className={loading ? 'loading' : 'error'}>
+            { loading ? <div className="loader" /> : `Error: ${error}`}
+          </div>
+        ) : (
+          <p>
+            {quote}
+            {' '}
+            |
+            {' '}
+            (
+            {category}
+            )
+            {' '}
+            -
+            {' '}
+            {author}
+          </p>
+        )
+      }
     </div>
   );
 };

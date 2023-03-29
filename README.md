@@ -60,12 +60,17 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
+<<<<<<< HEAD
 # 📖 Math Magician <a name="about-project"></a>
+=======
+> This is a Calculator App showing an impressive design of a functional calculator and quotes from an external restful API built with React.js. 
+>>>>>>> 4bdaedcbddc580cc2e2dcc3ea69aa5cbc6973afb
 
 **Math Magician** is an impressive site built with React that shows a fully functional calculator for making Math Calculations and loading Quotes from an External API.
 
 ## 🛠 Built With <a name="built-with"></a>
 
+<<<<<<< HEAD
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
@@ -74,6 +79,12 @@ After you're finished please remove all the comments and instructions!
     <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
 </details>
+=======
+### Key Features
+
+- Fetching Quotes from the External API.
+- Making math operations.
+>>>>>>> 4bdaedcbddc580cc2e2dcc3ea69aa5cbc6973afb
 
 <!-- Features -->
 
@@ -189,6 +200,7 @@ Example:
 
 <!-- FUTURE FEATURES -->
 
+<<<<<<< HEAD
 <!--## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[new_feature_1]**
@@ -198,6 +210,9 @@ Example:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>-->
 
 <!-- CONTRIBUTING -->
+=======
+- Mulitple pages
+>>>>>>> 4bdaedcbddc580cc2e2dcc3ea69aa5cbc6973afb
 
 ## 🤝 Contributing <a name="contributing"></a>
 
