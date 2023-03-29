@@ -60,17 +60,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-<<<<<<< HEAD
-# 📖 Math Magician <a name="about-project"></a>
-=======
-> This is a Calculator App showing an impressive design of a functional calculator and quotes from an external restful API built with React.js. 
->>>>>>> 4bdaedcbddc580cc2e2dcc3ea69aa5cbc6973afb
-
 **Math Magician** is an impressive site built with React that shows a fully functional calculator for making Math Calculations and loading Quotes from an External API.
 
 ## 🛠 Built With <a name="built-with"></a>
 
-<<<<<<< HEAD
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
@@ -79,39 +72,6 @@ After you're finished please remove all the comments and instructions!
     <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
 </details>
-=======
-### Key Features
-
-- Fetching Quotes from the External API.
-- Making math operations.
->>>>>>> 4bdaedcbddc580cc2e2dcc3ea69aa5cbc6973afb
-
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-- **Fetching Quotes from External API**
-- **Making Complex Math Computations**
-
-<!--<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
-
-<!-- LIVE DEMO -->
-
-<!--## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)-->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
 
 In order to run this project you need:
 
@@ -209,10 +169,11 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>-->
 
-<!-- CONTRIBUTING -->
-=======
+<<<<<<<<< Temporary merge branch 1
 - Mulitple pages
->>>>>>> 4bdaedcbddc580cc2e2dcc3ea69aa5cbc6973afb
+=========
+- Impressive interface.
+>>>>>>>>> Temporary merge branch 2
 
 ## 🤝 Contributing <a name="contributing"></a>
 
