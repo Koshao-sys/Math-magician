@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+
+.quotes-container {
+  flex-basis: 40%;
+  font-size: 50px;
+  border: 2px solid #f5913e;
+  background-color: #f5913e;
+  border-radius: 25% 25% 25% 25%;
+  padding: 40px;
+  width: 60%;
+  margin: auto;
+}
+
+.quotes-container p {
+  font-family: 'Delicious Handrawn', cursive;
+  margin: 0;
+  color: rgb(246, 251, 255);
+}
