@@ -1,5 +1,5 @@
 import { render, act } from '@testing-library/react';
-import Quotes from '../components/Quotes';
+import Quote from '../components/Quote';
 
 global.fetch = require('jest-fetch-mock');
 
@@ -9,7 +9,7 @@ beforeEach(() => {
 });
 
 it('The Quotes component renders correctly with the passed quote', async () => {
-  const quotes = await act(async () => render(<Quotes />));
+  const quotes = await act(async () => render(<Quote />));
 
   expect(quotes).toMatchSnapshot();
 });

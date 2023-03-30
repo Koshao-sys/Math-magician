@@ -3,7 +3,7 @@ import { Route, Routes } from 'react-router-dom';
 import Calculator from './components/Calculator';
 import Home from './components/Home';
 import Nav from './components/Nav';
-import Quotes from './components/Quotes';
+import Quote from './components/Quote';
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/calculator" element={<Calculator />} />
-        <Route path="/quotes" element={<Quotes />} />
+        <Route path="/quotes" element={<Quote />} />
       </Routes>
     </>
   );

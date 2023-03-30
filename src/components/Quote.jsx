@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import './Quotes.css';
+import './Quote.css';
 
-const Quotes = () => {
+const Quote = () => {
   const [quote, setQuote] = useState('');
   const [author, setAuthor] = useState('');
   const [category, setCategory] = useState('');
@@ -59,4 +59,4 @@ const Quotes = () => {
   );
 };
 
-export default Quotes;
+export default Quote;
