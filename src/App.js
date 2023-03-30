@@ -1,9 +1,9 @@
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
 import Calculator from './components/Calculator';
-import Quotes from './components/Quotes';
 import Home from './components/Home';
 import Nav from './components/Nav';
+import Quotes from './components/Quotes';
 
 function App() {
   return (
