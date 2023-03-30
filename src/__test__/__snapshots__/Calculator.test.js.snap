@@ -1,0 +1,368 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="calc-container"
+      >
+        <div
+          class="Calculator"
+        >
+          <div
+            class="DisplayArea"
+          >
+            <p>
+              0
+            </p>
+          </div>
+          <div
+            class="key-area"
+          >
+            <button
+              class="key-btn"
+              id="btn-0"
+              type="submit"
+            >
+              AC
+            </button>
+            <button
+              class="key-btn"
+              id="btn-1"
+              type="submit"
+            >
+              +/-
+            </button>
+            <button
+              class="key-btn"
+              id="btn-2"
+              type="submit"
+            >
+              %
+            </button>
+            <button
+              class="key-btn"
+              id="btn-3"
+              type="submit"
+            >
+              ÷
+            </button>
+            <button
+              class="key-btn"
+              id="btn-4"
+              type="submit"
+            >
+              7
+            </button>
+            <button
+              class="key-btn"
+              id="btn-5"
+              type="submit"
+            >
+              8
+            </button>
+            <button
+              class="key-btn"
+              id="btn-6"
+              type="submit"
+            >
+              9
+            </button>
+            <button
+              class="key-btn"
+              id="btn-7"
+              type="submit"
+            >
+              x
+            </button>
+            <button
+              class="key-btn"
+              id="btn-8"
+              type="submit"
+            >
+              4
+            </button>
+            <button
+              class="key-btn"
+              id="btn-9"
+              type="submit"
+            >
+              5
+            </button>
+            <button
+              class="key-btn"
+              id="btn-10"
+              type="submit"
+            >
+              6
+            </button>
+            <button
+              class="key-btn"
+              id="btn-11"
+              type="submit"
+            >
+              -
+            </button>
+            <button
+              class="key-btn"
+              id="btn-12"
+              type="submit"
+            >
+              1
+            </button>
+            <button
+              class="key-btn"
+              id="btn-13"
+              type="submit"
+            >
+              2
+            </button>
+            <button
+              class="key-btn"
+              id="btn-14"
+              type="submit"
+            >
+              3
+            </button>
+            <button
+              class="key-btn"
+              id="btn-15"
+              type="submit"
+            >
+              +
+            </button>
+            <button
+              class="key-btn"
+              id="btn-16"
+              type="submit"
+            >
+              0
+            </button>
+            <button
+              class="key-btn"
+              id="btn-17"
+              type="submit"
+            >
+              .
+            </button>
+            <button
+              class="key-btn"
+              id="btn-18"
+              type="submit"
+            >
+              =
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="calc-container"
+    >
+      <div
+        class="Calculator"
+      >
+        <div
+          class="DisplayArea"
+        >
+          <p>
+            0
+          </p>
+        </div>
+        <div
+          class="key-area"
+        >
+          <button
+            class="key-btn"
+            id="btn-0"
+            type="submit"
+          >
+            AC
+          </button>
+          <button
+            class="key-btn"
+            id="btn-1"
+            type="submit"
+          >
+            +/-
+          </button>
+          <button
+            class="key-btn"
+            id="btn-2"
+            type="submit"
+          >
+            %
+          </button>
+          <button
+            class="key-btn"
+            id="btn-3"
+            type="submit"
+          >
+            ÷
+          </button>
+          <button
+            class="key-btn"
+            id="btn-4"
+            type="submit"
+          >
+            7
+          </button>
+          <button
+            class="key-btn"
+            id="btn-5"
+            type="submit"
+          >
+            8
+          </button>
+          <button
+            class="key-btn"
+            id="btn-6"
+            type="submit"
+          >
+            9
+          </button>
+          <button
+            class="key-btn"
+            id="btn-7"
+            type="submit"
+          >
+            x
+          </button>
+          <button
+            class="key-btn"
+            id="btn-8"
+            type="submit"
+          >
+            4
+          </button>
+          <button
+            class="key-btn"
+            id="btn-9"
+            type="submit"
+          >
+            5
+          </button>
+          <button
+            class="key-btn"
+            id="btn-10"
+            type="submit"
+          >
+            6
+          </button>
+          <button
+            class="key-btn"
+            id="btn-11"
+            type="submit"
+          >
+            -
+          </button>
+          <button
+            class="key-btn"
+            id="btn-12"
+            type="submit"
+          >
+            1
+          </button>
+          <button
+            class="key-btn"
+            id="btn-13"
+            type="submit"
+          >
+            2
+          </button>
+          <button
+            class="key-btn"
+            id="btn-14"
+            type="submit"
+          >
+            3
+          </button>
+          <button
+            class="key-btn"
+            id="btn-15"
+            type="submit"
+          >
+            +
+          </button>
+          <button
+            class="key-btn"
+            id="btn-16"
+            type="submit"
+          >
+            0
+          </button>
+          <button
+            class="key-btn"
+            id="btn-17"
+            type="submit"
+          >
+            .
+          </button>
+          <button
+            class="key-btn"
+            id="btn-18"
+            type="submit"
+          >
+            =
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

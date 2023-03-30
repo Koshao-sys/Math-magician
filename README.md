@@ -60,7 +60,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-**Math Magician** is an impressive site built with React that shows a fully functional calculator for making Math Calculations and loading Quotes from an External API.
+# 📖 Math Magician <a name="about-project"></a>
+
+**Magician** is an impressive site built with React that shows a fully functional calculator for making Math Calculations and loading Quotes from an External API.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -73,7 +75,24 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-In order to run this project you need:
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **Fetch Quotes from External API**
+- **MAke complex math operations**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need: VS code editor
 
 <!--
 Example command:
@@ -123,7 +142,7 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command: npm run tests
+To run tests, run the following command: npm run test
 
 <!--
 Example command:
@@ -132,8 +151,8 @@ Example command:
   bin/rails test test/models/article_test.rb
 ```
 --->
-<!--
-### Deployment
+
+<!--### Deployment
 
 You can deploy this project using:-->
 
@@ -167,6 +186,8 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- CONTRIBUTING -->
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
@@ -190,6 +211,22 @@ If you like this project then leave a ⭐️
 I would like to thank Microverse for the learning materials.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+<!--## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
 
 <!-- LICENSE -->
 
