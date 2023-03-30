@@ -11,11 +11,14 @@ function Display(props) {
 }
 
 Display.propTypes = {
-  state: PropTypes.shape({
-    total: PropTypes.string,
-    next: PropTypes.string,
-    operation: PropTypes.string,
-  }).isRequired,
+  state: PropTypes.oneOfType([
+    PropTypes.string,
+    PropTypes.shape({
+      total: PropTypes.string,
+      next: PropTypes.string,
+      operation: PropTypes.string,
+    }),
+  ]).isRequired,
 };
 
 export default Display;

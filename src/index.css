@@ -8,24 +8,3 @@ body {
   justify-content: center;
   gap: 50px;
 }
-
-.nav-bar {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-left: 15%;
-  margin-right: 15%;
-}
-
-.nav-bar p {
-  font-size: 40px;
-  margin-top: 10px;
-}
-
-.nav-bar ul {
-  display: flex;
-  list-style: none;
-  text-decoration: none;
-  gap: 10px;
-  font-weight: 400;
-}
