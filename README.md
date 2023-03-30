@@ -62,15 +62,11 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Math Magician <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **Magician** is an impressive site built with React that shows a fully functional calculator for making Math Calculations and loading Quotes from an External API.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -194,8 +190,6 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **Advanced Calculator Functions**
 - [ ] **Multiple quotes from API**
